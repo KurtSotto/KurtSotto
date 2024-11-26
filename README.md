@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/KurtSotto](https://www.frontendmentor.io/profile/KurtSotto)
 
-- 📫 How to reach me **kurtcagulang@gmail.com**
+- 📫 How to reach me **kurtcagulang@gmail.com** 
 
 - ⚡ Fun fact **Im a fookin gymrat hell yeah**
 
